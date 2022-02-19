@@ -86,6 +86,7 @@ public class BankAccount {
                     break;
                 case 'E':
                     System.out.println("*******************************");
+                    break;
                 default:
                     System.out.println("Invalid option!! Please enter again");
                     break;
